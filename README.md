@@ -1,5 +1,5 @@
-Docsumo Landing Page
-This project is a landing page for Docsumo Assignment, built using Next.js and Tailwind CSS .
+##Docsumo Landing Page
+#This project is a landing page for Docsumo Assignment, built using Next.js and Tailwind CSS .
 
 Table of Contents
 
