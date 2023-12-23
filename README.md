@@ -1,87 +1,45 @@
-<div align="center">
-  <img alt="Docsumo logo" src="/public/Docsumo.svg" width="100" />
-</div>
+Docsumo Landing Page
+This project is a landing page for Docsumo Assignment, built using Next.js and Tailwind CSS .
 
-<h1 align="center">
-  Docsumo - A landing page template 🚀
-</h1>
+Table of Contents
 
-Docsumo is a customizable NextJS and TailwindCSS landing page template that offers personalized styling and easy customization. Tailored to provide a minimal design, it allows you to effortlessly create a site that suits your requirements. You can easily make use of the components and customize the code to mix and match to suit your needs.
+1. Navigation Bar
+2. Hero Section
+3. Testimonial Section
+4. Client Logo Section
+5. Lead Gen Form (above the footer)
 
-<hr>
+...
+Getting Started
+To get started with this project, follow the steps below.
 
-![Docsumo Mockup](/public/Docsumo.png)
+Installation
+Clone the repository:
 
-## Key Features:
+bash
+Copy code
+git clone https://github.com/RitikJ22/Docsumo-test.git
+cd Docsumo-test
+Install dependencies:
 
--   Minimal styling (make it your own!)
--   Accessible, semantic HTML markup
--   Blazingly Fast
--   100/100 Lighthouse performance
--   Responsive & SEO-friendly with canonical URLs, OpenGraph data and Meta tags.
--   Sitemap support
--   Made with NextJS and TailwindCSS
+bash
+Copy code
+npm install
 
-## Deploy your own
+# or
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example).
+yarn install
+Usage
+Run the development server:
 
-If you want to deploy on Netlify, use the following build command under site settings:
+bash
+Copy code
+npm run dev
 
-```bash
-npm run build
-```
+# or
 
-You also want to make sure the publish directory is out.
+yarn dev
+Open http://localhost:3000 in your browser to view the landing page.
 
-## Lighthouse Score
-
-Docsumo scores 100/100 in the Lighthouse performance audit.
-
-![Docsumo Lighthouse Score](/lighthouse-score.png)
-
-## Demo
-
-Check out the [Demo](https://Docsumo.chrstnl.com/), hosted on Vercel.
-
-## Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command         | Action                                       |
-| :-------------- | :------------------------------------------- |
-| `npm install`   | Installs dependencies                        |
-| `npm run dev`   | Starts local dev server at `localhost:3000`  |
-| `npm run build` | Build your production site to `./next/`      |
-| `npm run start` | Preview your build locally, before deploying |
-
-## Update Site Metadata
-
-```js
-env: {
-  siteTitle: 'Your Company',
-  siteDescription: 'Your company description.',
-  siteKeywords: 'your company keywords',
-  siteUrl: 'https://Docsumo.chrstnl.com/',
-  siteImagePreviewUrl: '/images/preview.jpeg',
-  twitterHandle: '@your_handle'
-}
-```
-
-## Update Colors
-
-You can update the colors in tailwind.config.js file.
-
-## Update Favicon
-
-Update the manifest.json file and the icons under the public/images/icons folder.
-
-You can use free tools online such as https://realfavicongenerator.net/ to quickly generate all the different icon sizes and favicon.ico file.
-
-## Feedback and Suggestions
-
-If you have any suggestions/feedback feel free to open an issue if you find bugs or want to request new features.
-
----
-
-Made by [chrstnl](https://chrstnl.com/)
+Contributing
+Contributions are welcome! If you find a bug, have a suggestion, or want to add a new feature, please open an issue or submit a pull request.

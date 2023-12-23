@@ -22,7 +22,7 @@ const DATA = [
             },
             {
                 label: "Contact Us",
-                href: "https://github.com/RitikJ22"
+                href: "#Contact"
             }
         ]
     },
