@@ -7,10 +7,10 @@ export const Contact = (props) => {
         <div className="mx-auto max-w-7xl px-4 pb-16 sm:px-6 lg:px-8 lg:pb-20">
             <div className="mb-4">
                 <div className="mb-6 max-w-3xl text-center sm:text-center md:mx-auto md:mb-12">
-                    <h2 className="font-heading mb-4 font-bold tracking-tight text-gray-900 dark:text-white text-3xl sm:text-5xl">
+                    <h2 className="font-heading mb-4 font-bold tracking-tight text-gray-900 text-3xl sm:text-5xl">
                         Ready to automate your data extraction? Let&apos;s talk.
                     </h2>
-                    <p className="mx-auto mt-4 max-w-3xl text-xl text-gray-600 dark:text-slate-400">
+                    <p className="mx-auto mt-4 max-w-3xl text-xl text-gray-600 ">
                         Docsumo&apos;s intelligent document processing enables
                         you to extract data easily, efficiently, and accurately.
                         ‍Fill up the form to speak with an automation expert.
@@ -20,7 +20,7 @@ export const Contact = (props) => {
             <div className="flex items-stretch justify-center">
                 <div className="grid md:grid-cols-2">
                     <div className="h-full pr-6">
-                        <p className="mt-3 mb-12 text-lg text-gray-600 dark:text-slate-400">
+                        <p className="mt-3 mb-12 text-lg text-gray-600 ">
                             Hi, we&apos;re Docsumo! <br />
                             We have created one of the world&apos;s most popular
                             Document AI platform - one that data-driven
@@ -46,13 +46,13 @@ export const Contact = (props) => {
                                     </svg>
                                 </div>
                                 <div className="ml-4 mb-4">
-                                    <h3 className="mb-2 text-lg font-medium leading-6 text-gray-900 dark:text-white">
+                                    <h3 className="mb-2 text-lg font-medium leading-6 text-gray-900 ">
                                         Our Address
                                     </h3>
-                                    <p className="text-gray-600 dark:text-slate-400">
+                                    <p className="text-gray-600 ">
                                         1230 Maecenas Street Donec Road
                                     </p>
-                                    <p className="text-gray-600 dark:text-slate-400">
+                                    <p className="text-gray-600 ">
                                         New York, EEUU
                                     </p>
                                 </div>
@@ -77,13 +77,13 @@ export const Contact = (props) => {
                                     </svg>
                                 </div>
                                 <div className="ml-4 mb-4">
-                                    <h3 className="mb-2 text-lg font-medium leading-6 text-gray-900 dark:text-white">
+                                    <h3 className="mb-2 text-lg font-medium leading-6 text-gray-900 ">
                                         Contact
                                     </h3>
-                                    <p className="text-gray-600 dark:text-slate-400">
+                                    <p className="text-gray-600 ">
                                         Mobile: +1 (123) 456-7890
                                     </p>
-                                    <p className="text-gray-600 dark:text-slate-400">
+                                    <p className="text-gray-600 ">
                                         Mail: Docsumo@gmail.com
                                     </p>
                                 </div>
@@ -107,13 +107,13 @@ export const Contact = (props) => {
                                     </svg>
                                 </div>
                                 <div className="ml-4 mb-4">
-                                    <h3 className="mb-2 text-lg font-medium leading-6 text-gray-900 dark:text-white">
+                                    <h3 className="mb-2 text-lg font-medium leading-6 text-gray-900 ">
                                         Working hours
                                     </h3>
-                                    <p className="text-gray-600 dark:text-slate-400">
+                                    <p className="text-gray-600 ">
                                         Monday - Friday: 08:00 - 17:00
                                     </p>
-                                    <p className="text-gray-600 dark:text-slate-400">
+                                    <p className="text-gray-600 ">
                                         Saturday &amp; Sunday: 08:00 - 12:00
                                     </p>
                                 </div>
