@@ -1,7 +1,7 @@
-##Docsumo Landing Page
-#This project is a landing page for Docsumo Assignment, built using Next.js and Tailwind CSS .
+## Docsumo Landing Page
+# This project is a landing page for Docsumo Assignment, built using Next.js and Tailwind CSS .
 
-Table of Contents
+# Table of Contents
 
 1. Navigation Bar
 2. Hero Section
@@ -10,8 +10,8 @@ Table of Contents
 5. Lead Gen Form (above the footer)
 
 ...
-Getting Started
-To get started with this project, follow the steps below.
+## Getting Started
+# To get started with this project, follow the steps below.
 
 Installation
 Clone the repository:
